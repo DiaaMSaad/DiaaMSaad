@@ -18,14 +18,14 @@
 </p>
 
 
-
+ Connect with me
 <p align="left"> 
 <a href=https://www.instagram.com/diaamsaad/ target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
   <p align="center">
 <a href="https://twitter.com/DiaaMuhmd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="DiaaMuhmd" height="30" width="40" /></a>
 <a href="www.linkedin.com/in/diaa-mohameds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="DiaaMohameds" height="30" width="40" /></a>
 
-    🔵 Mobile Development 
+   🔵 Mobile Development 
  
 <p align="center">
   &emsp;
@@ -36,7 +36,7 @@
   &emsp;
 </p>
 
- 🔵 IDEs
+   🔵 IDEs
  
 <p align="center">
   &emsp;
